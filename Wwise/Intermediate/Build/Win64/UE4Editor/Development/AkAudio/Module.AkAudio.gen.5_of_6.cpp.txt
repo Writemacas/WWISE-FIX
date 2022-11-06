@@ -1,0 +1,394 @@
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Development\AkAudio\Definitions.AkAudio.h
+D:/GitHub/SybGameJamWwise/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkSpatialAudioVolume.gen.cpp
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio/Classes/AkSpatialAudioVolume.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Volume.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Volume.generated.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\AkSurfaceReflectorSetComponent.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\AkAcousticTexture.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\AkAudioType.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Public\AkInclude.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\AkUEFeatures.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/AkWwiseSDKVersion.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\Windows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\sdkddkver.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\excpt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\apiquery2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\fileapifromapp.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wincontypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\consoleapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\consoleapi3.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\ime_cmodes.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformAtomics.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkSoundEngine.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkSoundEngineExport.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/AkPlatforms.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Platforms/Windows/AkTypes.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkTypes.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/IAkPlugin.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkCommonDefs.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkSpeakerConfig.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkSpeakerVolumes.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Platforms/Generic/AkSpeakerVolumes.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkPlatformFuncs.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkAtomic.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Platforms/Windows/AkAtomic.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/Tools/Win32/AkPlatformFuncs.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkAssert.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\math.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/IAkPluginMemAlloc.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkMemoryMgr.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkArray.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkObject.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkString.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkFNVHash.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkHashList.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkKeyDef.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/IAkRTPCSubscriber.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkFPUtilities.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkLock.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/Tools/Win32/AkLock.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkMonitorError.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/IAkProcessorFeatures.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/IAkPlatformContext.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkMidiTypes.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkCallback.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\math.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Platforms/Windows/AkWinSoundEngine.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Platforms/Windows/AkPlatformContext.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SpatialAudio/Common/AkSpatialAudio.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SpatialAudio/Common/AkSpatialAudioTypes.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkKeyArray.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkSet.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/Plugin/AkReflectGameData.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/IBytes.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkModule.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/IAkStreamMgr.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkStreamMgrModule.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/MusicEngine/Common/AkMusicEngine.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/Comm/AkCommunication.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkQueryParameters.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformAtomics.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkAudioType.generated.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkAcousticTexture.generated.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\AkAcousticTextureSetComponent.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\AkSettings.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistryModule.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistry/AssetRegistryModule.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistry/IAssetRegistry.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Misc/AssetRegistryInterface.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry\IAssetRegistry.generated.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\AkRtpc.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkRtpc.generated.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkSettings.generated.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkAcousticTextureSetComponent.generated.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\AkGameObject.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Public\AkAudioDevice.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\AkBankManager.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\AkGameplayTypes.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\Platforms/AkUEPlatform.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_Windows/AkWindowsPlatform.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\Platforms/AkPlatformBase.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_Windows\AkWindowsInitializationSettings.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\InitializationSettings/AkInitializationSettings.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkInitializationSettings.generated.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\InitializationSettings/AkPlatformInitialisationSettingsBase.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkPlatformInitialisationSettingsBase.generated.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkWindowsInitializationSettings.generated.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkGameplayTypes.generated.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\CoreUObject/Public/UObject/StrongObjectPtr.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/StreamableManager.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\AkEnvironmentIndex.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Core\Public\Math/GenericOctree.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Core\Public\Math\GenericOctreePublic.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Core\Public\Math\GenericOctree.inl
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\AkGroupValue.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkGroupValue.generated.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkGameObject.generated.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\AkSurfaceReflectorSetUtils.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkSurfaceReflectorSetUtils.generated.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/TextRenderComponent.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextRenderComponent.generated.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkSurfaceReflectorSetComponent.generated.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\AkLateReverbComponent.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\AkReverbDescriptor.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkReverbDescriptor.generated.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkLateReverbComponent.generated.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\AkRoomComponent.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkRoomComponent.generated.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkSpatialAudioVolume.generated.h
+D:/GitHub/SybGameJamWwise/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkSpotReflector.gen.cpp
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio/Classes/AkSpotReflector.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkSpotReflector.generated.h
+D:/GitHub/SybGameJamWwise/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkStateValue.gen.cpp
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio/Classes/AkStateValue.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkStateValue.generated.h
+D:/GitHub/SybGameJamWwise/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkSubmixInputComponent.gen.cpp
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio/Classes/AkSubmixInputComponent.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Engine\Public\AudioDevice.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/AudioComponent.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/SoundWave.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/SoundBase.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/AudioSettings.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioSettings.generated.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/SoundClass.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Engine\Public\AudioDynamicParameter.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/SoundModulationDestination.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundModulationDestination.generated.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound\SoundWaveLoadingBehavior.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundClass.generated.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound\SoundConcurrency.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundConcurrency.generated.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound\SoundGenerator.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundBase.generated.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/SoundGroups.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundGroups.generated.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\AudioPlatformConfiguration\Public\AudioCompressionSettings.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioPlatformConfiguration\AudioCompressionSettings.generated.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundWave.generated.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/QuartzSubscription.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\AudioMixer\Public\Quartz/AudioMixerClockHandle.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\AudioMixer\Public\Quartz/QuartzSubsystem.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\AudioMixer\Public\Quartz/AudioMixerClockManager.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\AudioMixer\Public\Quartz\AudioMixerClock.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\AudioMixer\Public\Quartz/QuartzMetronome.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioMixer\QuartzSubsystem.generated.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioMixer\AudioMixerClockHandle.generated.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\AudioMixer\Public\Quartz/AudioMixerQuantizedCommands.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioComponent.generated.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\SignalProcessing\Public\DSP/MultithreadedPatching.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\SignalProcessing\Public\DSP/SpectrumAnalyzer.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\SignalProcessing\Public\DSP/AudioFFT.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\SignalProcessing\Public\DSP/FFTAlgorithm.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\SignalProcessing\Public\SampleBuffer.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/AudioVolume.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound\ReverbSettings.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ReverbSettings.generated.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioVolume.generated.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/SoundMix.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundMix.generated.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/SoundSubmix.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\AudioExtensions\Public\IAudioEndpoint.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioExtensions\IAudioEndpoint.generated.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\AudioExtensions\Public\ISoundfieldEndpoint.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioExtensions\ISoundfieldEndpoint.generated.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound\SampleBufferIO.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound\SoundEffectSubmix.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundEffectSubmix.generated.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundSubmix.generated.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/SoundSourceBus.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/SoundWaveProcedural.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundWaveProcedural.generated.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/AudioBus.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioBus.generated.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundSourceBus.generated.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Engine\Public\AudioVirtualLoop.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Engine\Public\ActiveSound.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Engine\Public\Audio/AudioDebug.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\SignalProcessing\Public\DSP/VolumeFader.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\AkAudioInputComponent.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\AkAudioInputManager.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\AkComponent.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\OcclusionObstructionService/AkComponentOcclusionObstructionService.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\OcclusionObstructionService/AkOcclusionObstructionService.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkComponent.generated.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkAudioInputComponent.generated.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkSubmixInputComponent.generated.h
+D:/GitHub/SybGameJamWwise/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkSurfaceReflectorSetComponent.gen.cpp
+D:/GitHub/SybGameJamWwise/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkSurfaceReflectorSetUtils.gen.cpp
+D:/GitHub/SybGameJamWwise/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkSwitchInitializationSettings.gen.cpp
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio/Classes/Platforms/AkPlatform_Switch/AkSwitchInitializationSettings.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkSwitchInitializationSettings.generated.h
+D:/GitHub/SybGameJamWwise/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkSwitchPlatformInfo.gen.cpp
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio/Classes/Platforms/AkPlatform_Switch/AkSwitchPlatformInfo.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\Platforms/AkPlatformInfo.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/GameEngine.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/SViewport.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime/MovieSceneCapture/Public/MovieSceneCaptureHandle.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameEngine.generated.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkPlatformInfo.generated.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkSwitchPlatformInfo.generated.h
+D:/GitHub/SybGameJamWwise/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkSwitchValue.gen.cpp
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio/Classes/AkSwitchValue.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkSwitchValue.generated.h
+D:/GitHub/SybGameJamWwise/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkTrigger.gen.cpp
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio/Classes/AkTrigger.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkTrigger.generated.h
+D:/GitHub/SybGameJamWwise/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkTVOSInitializationSettings.gen.cpp
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio/Classes/Platforms/AkPlatform_tvOS/AkTVOSInitializationSettings.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\InitializationSettings/AkAudioSession.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkAudioSession.generated.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkTVOSInitializationSettings.generated.h
+D:/GitHub/SybGameJamWwise/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkTVOSPlatformInfo.gen.cpp
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio/Classes/Platforms/AkPlatform_tvOS/AkTVOSPlatformInfo.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkTVOSPlatformInfo.generated.h
+D:/GitHub/SybGameJamWwise/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkWaapiCalls.gen.cpp
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio/Classes/AkWaapiBlueprints/AkWaapiCalls.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiBlueprints\AkWaapiUri.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/SSearchBox.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/TextFilter.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/TextFilterExpressionEvaluator.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/ExpressionParser.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/TextFilterUtils.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkWaapiUri.generated.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUtils.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Json\Public\Dom/JsonObject.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Json\Public\JsonGlobals.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Json\Public\Dom/JsonValue.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Public\AkWaapiClient.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Json\Public\Serialization/JsonSerializer.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Json\Public\Serialization/JsonReader.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/WwiseAuthoringAPI/waapi.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiBlueprints\AkWaapiJsonManager.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiBlueprints/AkWaapiFieldNames.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkWaapiFieldNames.generated.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkWaapiJsonManager.generated.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkWaapiCalls.generated.h
+D:/GitHub/SybGameJamWwise/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkWaapiFieldNames.gen.cpp
+D:/GitHub/SybGameJamWwise/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkWaapiJsonManager.gen.cpp
+D:/GitHub/SybGameJamWwise/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkWaapiUri.gen.cpp
+D:/GitHub/SybGameJamWwise/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkWindowsInitializationSettings.gen.cpp
+D:/GitHub/SybGameJamWwise/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkWindowsPlatformInfo.gen.cpp
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio/Classes/Platforms/AkPlatform_Windows/AkWindowsPlatformInfo.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkWindowsPlatformInfo.generated.h
+D:/GitHub/SybGameJamWwise/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkWwiseTree.gen.cpp
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio/Classes/AkWaapiUMG/Components/AkWwiseTree.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/Widget.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/Visual.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\Visual.generated.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/SlateWrapperTypes.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\SlateWrapperTypes.generated.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\UMG\Public\Slate/WidgetTransform.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetTransform.generated.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerController.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/OnlineReplStructs.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreOnline.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\OnlineReplStructs.generated.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerMuteList.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerMuteList.generated.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/PlayerCameraManager.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerCameraManager.generated.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InputComponent.generated.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/ForceFeedbackEffect.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ForceFeedbackEffect.generated.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/UpdateLevelVisibilityLevelInfo.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\UpdateLevelVisibilityLevelInfo.generated.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/IInputInterface.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerController.generated.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\UMG\Public\Blueprint/WidgetNavigation.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Types/NavigationMetaData.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetNavigation.generated.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\Widget.generated.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\WaapiPicker/SWaapiPicker.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\WaapiPicker\WwiseTreeItem.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\WwiseItemType.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\WwiseItemType.generated.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG\Components\AkSlider.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG\Components\AkItemProperties.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG\Components\SAkItemProperties.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkItemProperties.generated.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkSlider.generated.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkWwiseTree.generated.h
+D:/GitHub/SybGameJamWwise/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkWwiseTreeSelector.gen.cpp
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio/Classes/AkWaapiUMG/Components/AkWwiseTreeSelector.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkWwiseTreeSelector.generated.h
+D:/GitHub/SybGameJamWwise/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkXboxOneInitializationSettings.gen.cpp
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio/Classes/Platforms/AkPlatform_XboxOne/AkXboxOneInitializationSettings.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkXboxOneInitializationSettings.generated.h

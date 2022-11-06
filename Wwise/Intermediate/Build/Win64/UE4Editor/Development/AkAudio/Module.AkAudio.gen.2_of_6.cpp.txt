@@ -1,0 +1,215 @@
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Development\AkAudio\Definitions.AkAudio.h
+D:/GitHub/SybGameJamWwise/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkDrawPortalComponent.gen.cpp
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio/Classes/AkDrawPortalComponent.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\AkAcousticPortal.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Volume.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Volume.generated.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\OcclusionObstructionService/AkPortalOcclusionObstructionService.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Public\AkInclude.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\AkUEFeatures.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/AkWwiseSDKVersion.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\Windows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\sdkddkver.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\excpt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\apiquery2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\fileapifromapp.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wincontypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\consoleapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\consoleapi3.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\ime_cmodes.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformAtomics.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkSoundEngine.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkSoundEngineExport.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/AkPlatforms.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Platforms/Windows/AkTypes.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkTypes.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/IAkPlugin.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkCommonDefs.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkSpeakerConfig.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkSpeakerVolumes.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Platforms/Generic/AkSpeakerVolumes.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkPlatformFuncs.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkAtomic.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Platforms/Windows/AkAtomic.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/Tools/Win32/AkPlatformFuncs.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkAssert.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\math.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/IAkPluginMemAlloc.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkMemoryMgr.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkArray.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkObject.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkString.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkFNVHash.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkHashList.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkKeyDef.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/IAkRTPCSubscriber.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkFPUtilities.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkLock.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/Tools/Win32/AkLock.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkMonitorError.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/IAkProcessorFeatures.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/IAkPlatformContext.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkMidiTypes.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkCallback.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\math.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Platforms/Windows/AkWinSoundEngine.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Platforms/Windows/AkPlatformContext.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SpatialAudio/Common/AkSpatialAudio.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SpatialAudio/Common/AkSpatialAudioTypes.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkKeyArray.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkSet.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/Plugin/AkReflectGameData.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/IBytes.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkModule.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/IAkStreamMgr.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkStreamMgrModule.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/MusicEngine/Common/AkMusicEngine.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/Comm/AkCommunication.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkQueryParameters.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformAtomics.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Public\AkAudioDevice.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\AkBankManager.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\AkGameplayTypes.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\Platforms/AkUEPlatform.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_Windows/AkWindowsPlatform.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\Platforms/AkPlatformBase.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_Windows\AkWindowsInitializationSettings.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\InitializationSettings/AkInitializationSettings.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkInitializationSettings.generated.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\InitializationSettings/AkPlatformInitialisationSettingsBase.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkPlatformInitialisationSettingsBase.generated.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkWindowsInitializationSettings.generated.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkGameplayTypes.generated.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\CoreUObject/Public/UObject/StrongObjectPtr.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/StreamableManager.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\AkEnvironmentIndex.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Core\Public\Math/GenericOctree.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Core\Public\Math\GenericOctreePublic.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Core\Public\Math\GenericOctree.inl
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\AkGroupValue.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\AkAudioType.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkAudioType.generated.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkGroupValue.generated.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\OcclusionObstructionService/AkOcclusionObstructionService.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkAcousticPortal.generated.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkDrawPortalComponent.generated.h
+D:/GitHub/SybGameJamWwise/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkDrawRoomComponent.gen.cpp
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio/Classes/AkDrawRoomComponent.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\AkRoomComponent.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\AkReverbDescriptor.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkReverbDescriptor.generated.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\AkGameObject.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkGameObject.generated.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkRoomComponent.generated.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkDrawRoomComponent.generated.h
+D:/GitHub/SybGameJamWwise/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkFolder.gen.cpp
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio/Classes/AkFolder.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\AkAssetBase.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\AssetRegistry/Public/AssetRegistryModule.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistry/AssetRegistryModule.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistry/IAssetRegistry.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Misc/AssetRegistryInterface.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry\IAssetRegistry.generated.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkAssetBase.generated.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio\Classes\WwiseItemType.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\WwiseItemType.generated.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkFolder.generated.h
+D:/GitHub/SybGameJamWwise/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkGameObject.gen.cpp
+D:/GitHub/SybGameJamWwise/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkGameplayStatics.gen.cpp
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AkAudio/Classes/AkGameplayStatics.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkGameplayStatics.generated.h

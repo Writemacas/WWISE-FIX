@@ -1,0 +1,47 @@
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Development\AudiokineticTools\Definitions.AudiokineticTools.h
+D:/GitHub/SybGameJamWwise/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AudiokineticTools/ActorFactoryAkAmbientSound.gen.cpp
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AudiokineticTools/Classes/Factories/ActorFactoryAkAmbientSound.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\ActorFactories/ActorFactory.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ActorFactory.generated.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AudiokineticTools\ActorFactoryAkAmbientSound.generated.h
+D:/GitHub/SybGameJamWwise/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AudiokineticTools/AkAssetFactories.gen.cpp
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AudiokineticTools/Private/Factories/AkAssetFactories.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AudiokineticTools\AkAssetFactories.generated.h
+D:/GitHub/SybGameJamWwise/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AudiokineticTools/AkFolderSearchFilter.gen.cpp
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AudiokineticTools/Private/AssetManagement/AkFolderSearchFilter.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Editor\ContentBrowser\Public\FrontendFilterBase.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Editor\ContentBrowser\Public\IContentBrowserSingleton.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Developer/AssetTools/Public/AssetTypeCategories.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Editor\ContentBrowserData\Public\ContentBrowserItem.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Editor\ContentBrowserData\Public\ContentBrowserItemData.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ContentBrowserData\ContentBrowserItem.generated.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Editor\ContentBrowser\Public\ContentBrowserDelegates.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Developer/AssetTools/Public/IAssetTypeActions.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Developer/Merge/Public/Merge.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\ThumbnailRendering/ThumbnailManager.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\ThumbnailRendering/ThumbnailRenderer.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ThumbnailRenderer.generated.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ThumbnailManager.generated.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Editor\ContentBrowserData\Public\ContentBrowserDataLegacyBridge.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Editor\ContentBrowserData\Public\ContentBrowserDataMenuContexts.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Developer\CollectionManager\Public\CollectionManagerTypes.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Developer\SourceControl\Public\ISourceControlState.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ContentBrowserData\ContentBrowserDataMenuContexts.generated.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ContentBrowserData\ContentBrowserDataLegacyBridge.generated.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Editor\ContentBrowser\Public\ContentBrowserFrontEndFilterExtension.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ContentBrowser\ContentBrowserFrontEndFilterExtension.generated.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AudiokineticTools\AkFolderSearchFilter.generated.h
+D:/GitHub/SybGameJamWwise/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AudiokineticTools/AkJsonFactory.gen.cpp
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AudiokineticTools/Classes/Factories/AkJsonFactory.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AudiokineticTools\AkJsonFactory.generated.h
+D:/GitHub/SybGameJamWwise/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AudiokineticTools/AudiokineticTools.init.gen.cpp
+D:/GitHub/SybGameJamWwise/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AudiokineticTools/GenerateSoundBanksCommandlet.gen.cpp
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AudiokineticTools/Classes/AssetManagement/GenerateSoundBanksCommandlet.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Source\Runtime\Engine\Classes\Commandlets/Commandlet.h
+D:\epic\Epic Games\Unreal Projects\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Commandlet.generated.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AudiokineticTools\GenerateSoundBanksCommandlet.generated.h
+D:/GitHub/SybGameJamWwise/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AudiokineticTools/SanitizeWwiseObjectPathCommandlet.gen.cpp
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Source\AudiokineticTools/Classes/AssetManagement/SanitizeWwiseObjectPathCommandlet.h
+D:\GitHub\SybGameJamWwise\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AudiokineticTools\SanitizeWwiseObjectPathCommandlet.generated.h
